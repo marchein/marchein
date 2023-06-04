@@ -5,7 +5,7 @@
 - 🔭 Working as Web- & Mobile Application Engineer @**JAM-Software**.
 - 💬 Language : German, English
 - 🎓 **Bachelor's degree** of Computer Science @Trier University of Applied Sciences
-- 📫 Email : dev@marc--hein.de
+- 📫 Email : dev@marc-hein.de
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
