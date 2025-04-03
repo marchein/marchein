@@ -2,7 +2,7 @@
 
 ### I am
 - 🏠 Currently living in **Trier / Germany**
-- 🔭 Working as Web- & Mobile Application Engineer @**JAM-Software**.
+- 🔭 Working as Mobile Application Engineer @ Dedalus.
 - 💬 Language : German, English
 - 🎓 **Bachelor's degree** of Computer Science @Trier University of Applied Sciences
 - 📫 Email : dev@marc-hein.de
