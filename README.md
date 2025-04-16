@@ -2,48 +2,42 @@
 
 ### I am
 - 🏠 Currently living in **Trier / Germany**
-- 🔭 Working as Mobile Application Engineer @ Dedalus.
-- 💬 Language : German, English
-- 🎓 **Bachelor's degree** of Computer Science @Trier University of Applied Sciences
-- 📫 Email : dev@marc-hein.de
+- 🔭 Working as **iOS Developer @ Dedalus**, building native mobile apps for healthcare professionals.
+- 💡 Passionate about intuitive UX, clean code and well-crafted digital experiences.
+- 💬 Languages: German, English
+- 🎓 **Bachelor’s degree** in Computer Science – Digital Media and Games @ Trier University of Applied Sciences
+- 📫 Email: dev@marc-hein.de
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
- </p>
+</p>
 
-### Technical Stacks
+### 🧑‍💻 Technical Stacks
 
-- Web Development : PHP, ASP.NET-Core-Blazor, JavaScript (NodeJS), SASS
-- iOS / WatchOS / macOS / tvOS : Swift
+- **Mobile Development:** Native iOS with Swift
+- **Web Development:** PHP, ASP.NET Blazor, JavaScript, Angular, Node.js
+- **Cross-Platform:** Ionic / Cordova
+- **Styling:** SCSS, responsive design with and without frameworks
 
-### Currently Interested In...  
-- Docker
-- Smart Home Automation
+### 🔍 Currently Interested In  
+- Docker & self-hosting in my Homelab  
+- Open-source tools for productivity and privacy  
+- Minimal design systems & accessibility  
 
-### Collaborate Skills
-- Design Collaboration : Figma
-- Develop Collaboration : GitHub
-- Issue Management : Jira
+### 🎸 Outside of Code  
+When I’m not coding, you’ll likely find me  
+- at concerts (Punk, Hardcore, Metal)  
+- riding my road bike along the Mosel  
+- or spending time outdoors hiking & exploring nature
 
+### 🚀 Side Projects
 
-<!--
-**marchein/marchein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[myBarcode](https://mybarcode-app.com/)** – iOS app for scanning & generating QR, Aztec, Code128, and PDF417 barcodes  
+- **[Mensaplan Trier](https://www.mensaplan-trier.de/)** – Cross-platform app for daily menus of local student cafeterias (originally started as native iOS app)  
+- More small projects coming soon…
