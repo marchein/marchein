@@ -35,9 +35,3 @@ When I’m not coding, you’ll likely find me
 - at concerts (Punk, Hardcore, Metal)  
 - riding my road bike along the Mosel  
 - or spending time outdoors hiking & exploring nature
-
-### 🚀 Side Projects
-
-- **[myBarcode](https://mybarcode-app.com/)** – iOS app for scanning & generating QR, Aztec, Code128, and PDF417 barcodes  
-- **[Mensaplan Trier](https://www.mensaplan-trier.de/)** – Cross-platform app for daily menus of local student cafeterias (originally started as native iOS app)  
-- More small projects coming soon…
